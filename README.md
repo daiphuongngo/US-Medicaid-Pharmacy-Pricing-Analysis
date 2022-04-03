@@ -10,13 +10,15 @@ This repository is a new challenging opportunity for me to analyze the new indus
 
 - `Machine Learning`
 
-- `AzureML`
+- `SQL`
+
+- `Azure Machine Learning Studio`
 
 - `Tableau`
 
-- `Neo4j`
+- `Neo4j (Graph)`
 
-- `Cypher`
+- `Cypher (in Neo4j)`
 
 ## Dataset:
 
