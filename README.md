@@ -1,25 +1,26 @@
 # Medicaid-Pharmacy-Pricing-Analysis
 
-## Overview
+## Overview:
 
+This repository is a new challenging opportunity for me to analyze the new industry I have never done before as of now, Apr 3rd, 2022 which is the Health / Pharmaceutical industry. This project is going be very time consuming but also intersting as to some extent, ITs / Analysts used to be reluctant to work on pharma / medical datasets. For me, "What's impossible or can't be done, that's where to get to work.". I chose the US Medicaid datasets to start with my 1st project in this sector and would use as many languages, tools at different levels as possible to explore and get insights.
 
 ## Languages & Tools:
 
-- Python
+- `Python`
 
-- Machine Learning
+- `Machine Learning`
 
-- Azure
+- `AzureML`
 
-- Tableau
+- `Tableau`
 
-- Neo4j
+- `Neo4j`
 
-- Cypher
+- `Cypher`
 
 ## Dataset:
 
-These datasets are provided by the US Medicaid's Pharmacy Pricing: 
+These datasets are provided by the US Medicaid's Pharmacy Pricing: https://www.medicaid.gov/medicaid/prescription-drugs/pharmacy-pricing/index.html
 
 ## Analysis
 
